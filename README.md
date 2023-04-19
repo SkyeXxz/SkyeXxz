@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SkyeXxz/SkyeXxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# SkyeXxz
-#
 
 
 **`Digital Craftsman (Developer/Editor/Filmmaker/Creator)`**
