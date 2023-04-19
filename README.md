@@ -16,7 +16,7 @@ As an indie full-stack developer and content creator, i manage my time and resou
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Skyez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <!-- <a href="https://github.com/Skyez?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Skyez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> --> 
-<h2> </h2>   
+ 
 
 ###  Connect with me  
    
@@ -27,11 +27,9 @@ As an indie full-stack developer and content creator, i manage my time and resou
   
 </div>
 
-  
-
-
+ </p>
+ 
 ---
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -56,11 +54,10 @@ As an indie full-stack developer and content creator, i manage my time and resou
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
                      
           
-
 <br />
-<h2> </h2>
 
-### 📊 Stats
+<h2 />
+### 📊 Stats 
   
 
 ![Skyez GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyez&show_icons=true&theme=aura)
