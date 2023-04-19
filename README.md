@@ -86,10 +86,4 @@ As an indie full-stack developer and content creator, i manage my time and resou
   />
 </picture>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
-
-###
