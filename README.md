@@ -65,9 +65,9 @@ As an indie full-stack developer and content creator, i manage my time and resou
 
 ### 📊 Stats
 
-![Skyez GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyez&show_icons=true&theme=transparent)
+![Skyez GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyez&show_icons=true&theme=aura)
 
-[GitHub Streak](https://streak-stats.demolab.com?user=Skyez&theme=aura&border_radius=4.5)
+[GitHub Streak](https://streak-stats.demolab.com?user=Skyez&theme=transparent&border_radius=4.5) -->
 
 # 
 
