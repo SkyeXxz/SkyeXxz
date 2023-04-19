@@ -17,12 +17,10 @@ As an indie full-stack developer and content creator, i manage my time and resou
    <!-- <a href="https://github.com/Skyez?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Skyez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> --> 
      
-   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-      <a href = "skyxxz19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://Instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://Facebook.com/" target="_blank"><img src="[https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)" target="_blank"></a>
-   
-      <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+   <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+   <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
+   <a href="https://m.youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   
 </div>
 
