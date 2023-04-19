@@ -58,7 +58,7 @@ As an indie full-stack developer and content creator, i manage my time and resou
           
 
 <br />
-<hr> </hr>
+<h2> </h2>
 
 ### 📊 Stats
   
