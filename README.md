@@ -6,6 +6,7 @@
 
 As an indie full-stack developer and content creator, i manage my time and resources effectively, continuously learn and improve, collaborate with others, focus on user experience, create high-quality content, and build your brand. By prioritizing these key areas, i can overcome the unique challenges that you face and achieve your personal goals of building your own version of the digital world.
 
+###  Social
    <p align="left">
       <a href="https://www.youtube.com/c/Skyexz?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube chaCancel changesnnel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
