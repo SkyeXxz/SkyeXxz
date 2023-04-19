@@ -16,7 +16,7 @@ As an indie full-stack developer and content creator, i manage my time and resou
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Skyez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <!-- <a href="https://github.com/Skyez?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Skyez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> --> 
-<hr> </hr>   
+<h2> </h2>   
 
 ###  Connect with me  
    
@@ -27,7 +27,7 @@ As an indie full-stack developer and content creator, i manage my time and resou
   
 </div>
 
-   </p>
+  
 
 
 ---
