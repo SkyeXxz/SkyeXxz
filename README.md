@@ -14,8 +14,8 @@ As an indie full-stack developer and content creator, i manage my time and resou
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/Skyez?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Skyez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Skyez?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Skyez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <!-- <a href="https://github.com/Skyez?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Skyez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> --> 
       <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
       <a href = "mailto:skyxxz19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://instagram.com/S" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -65,7 +65,7 @@ As an indie full-stack developer and content creator, i manage my time and resou
 
 ### 📊 Stats
 
-![Skyez GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyez&show_icons=true&theme=gruvbox)
+![Skyez GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyez&show_icons=true&theme=transparent)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Skyez&theme=gruvbox&border_radius=4.5) -->
 
