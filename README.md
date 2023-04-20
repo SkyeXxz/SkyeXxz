@@ -6,13 +6,13 @@
 
 As an indie full-stack developer and content creator, i manage my time and resources effectively, continuously learn and improve, collaborate with others, focus on user experience, create high-quality content, and build your brand. By prioritizing these key areas, i can overcome the unique challenges that you face and achieve your personal goals of building your own version of the digital world.
 
-###  Social
-   <p align="left">
+<!-- ###  Social
+      <p align="left">
       <a href="https://www.youtube.com/c/Skyexz?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube chaCancel changesnnel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/Skyexz">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <!-- <a href="https://github.com/Skyez?tab=followers">
+      <a href="https://github.com/Skyez?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Skyez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
             <a href="https://github.com/Skyez?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Skyez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> --> 
@@ -58,10 +58,11 @@ As an indie full-stack developer and content creator, i manage my time and resou
 ---
 ### 📊 Stats 
 
-<!-- ![Skyez GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyez&show_icons=true&theme=aura)
+| ![Skyez GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura) | <a href="https://github.com/SkyeXxz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--[GitHub Streak](https://streak-stats.demolab.com?user=Skyez&theme=transparent&border_radius=4.5) 
-# 
+# -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -79,7 +80,6 @@ As an indie full-stack developer and content creator, i manage my time and resou
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture> -->
+</picture> 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/SkyeXxz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
