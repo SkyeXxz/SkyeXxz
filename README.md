@@ -58,9 +58,9 @@ As an indie full-stack developer and content creator, i manage my time and resou
 ---
 ### 📊 Stats 
 
-![Skyez GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyez&show_icons=true&theme=aura)
+<!-- ![Skyez GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyez&show_icons=true&theme=aura)
 
-<!--[GitHub Streak](https://streak-stats.demolab.com?user=Skyez&theme=transparent&border_radius=4.5) -->
+<!--[GitHub Streak](https://streak-stats.demolab.com?user=Skyez&theme=transparent&border_radius=4.5) 
 # 
 <picture>
   <source
@@ -79,6 +79,9 @@ As an indie full-stack developer and content creator, i manage my time and resou
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
 
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/SkyeXxz
+/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeXxz
+&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
